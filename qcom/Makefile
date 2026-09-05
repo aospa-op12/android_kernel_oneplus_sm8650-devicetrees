@@ -768,5 +768,4 @@ endif
 
 always-y        := $(dtb-y)
 subdir-y        := $(dts-dirs)
-subdir-y        += audio bt camera data display dsp eSE eva fingerprint graphics mm mmrm mm-sys nfc synx video wlan
 clean-files     := *.dtb *.dtbo
